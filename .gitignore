@@ -1,0 +1,16 @@
+.codebase-memory/
+__pycache__/
+*.pyc
+*.uvguix.*
+*.uvoptx
+*.o
+*.crf
+*.axf
+*.lst
+*.map
+*.lnp
+*.dep
+*.hex
+.env
+*.downloading
+*.baiduyun
